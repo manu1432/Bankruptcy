@@ -46,7 +46,6 @@ def main():
             st.error("### Prediction: Bankruptcy")
 
 
-st.markdown("**Project By : MANU R**")
 
 
 if __name__ == '__main__':
