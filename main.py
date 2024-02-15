@@ -50,5 +50,6 @@ def main():
 
 if __name__ == '__main__':
     main()
-
+    st.markdown("---")
     st.markdown("Project By : MANU_R")
+    st.markdown("---")
