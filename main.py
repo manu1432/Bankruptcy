@@ -13,7 +13,7 @@ def main():
             f"""
              <style>
              .stApp {{
-                 background-image: url('https://wallpaperbat.com/img/439560-e-clipart-banking-e-banking-transparent-free-for-download.png');
+                 background-image: url('https://fusionmanagedit.com/wp-content/uploads/2023/05/shutterstock_2123447981.jpg');
                  background-attachment: fixed;
                  background-size: cover
              }}
